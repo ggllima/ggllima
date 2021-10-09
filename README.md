@@ -1,5 +1,7 @@
 ### Hello! I'm Guilherme Lima. Computer science student and data engineering intern
 
+<hr></hr>
+
 
 - 📊 I’m currently working on data engineering
 - 📚 I’m currently learning Pandas, Numpy and Matplotlib libraries
@@ -9,7 +11,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ggllima&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggllima&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-  
+<hr></hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Guilherme-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
