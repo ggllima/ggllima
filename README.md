@@ -19,7 +19,6 @@
   <img align="center" alt="Guilherme-pandas" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Guilherme-numpy" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg">
 </div>
-<br></br>
 <hr></hr>
 <div>
     <a href="https://www.linkedin.com/in/guilhermegabriellima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
