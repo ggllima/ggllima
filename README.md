@@ -20,6 +20,7 @@
   <img align="center" alt="Guilherme-sqlalchemy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg">
   <img align="center" alt="Guilherme-pandas" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Guilherme-numpy" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center" alt="Guilherme-postgree" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
 </div> 
   
 ##
