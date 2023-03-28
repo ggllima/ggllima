@@ -4,7 +4,6 @@
 
 
 - 📊 I’m currently working on data engineering
-- 📚 I’m currently learning Pandas, Numpy and Matplotlib libraries
 
 <div align="center">
   <a href="https://github.com/ggllima">
